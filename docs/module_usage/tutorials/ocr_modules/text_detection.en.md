@@ -1,7 +1,7 @@
 ---
 comments: true
 ---
-
+ 
 # Text Detection Module Tutorial
 
 ## I. Overview
